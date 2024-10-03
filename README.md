@@ -37,7 +37,7 @@ The company collected the data on individuals who purchased a treadmill from the
 | Fitness | Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape | 
 | Miles | The average number of miles the buyer expects to walk/run each week | 
 
-![Bi Dashboard](https://example.com/sunset.jpg)
+![Bi Dashboard](https://github.com/sir-guevara/brightfire_business_case_study/blob/main/img-dashboard.png?raw=true)
 
 
 
